@@ -1,5 +1,5 @@
-## Welcome to GitHub Pages
-
+## Welcome to my blog
+Hello world. This is my personal blog. The usual disclaimers obviously apply. The views espoused here are mine alone and not attributable to my employer. They're mostly silly, with, ocassional flashes of brilliance, one would hope. 
 You can use the [editor on GitHub](https://github.com/gabyd/werds_blog/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
